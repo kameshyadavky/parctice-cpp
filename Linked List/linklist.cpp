@@ -7,7 +7,7 @@
 namespace ky{
   template <class T>
   LinkedList<T>::~LinkedList(){
-
+      //implement later
   }
 
   template <class T>
